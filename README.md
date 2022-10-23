@@ -104,5 +104,5 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support JaeXploit
-* [`Saweria`](https://saweria.co/JaeXploot)
+* [`Saweria`](https://saweria.co/JaeXploit)
 # botmdJoe
