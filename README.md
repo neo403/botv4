@@ -48,6 +48,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 git https://github.com/JaeXploit/botv4
 cd botv4
 npm install
+npm start
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
@@ -65,10 +66,12 @@ npm install
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
+pkg install nodejs-lts -y
 apt install ffmpeg -y
 git clone https://github.com/JaeXploit/botv4
 cd botv4
 npm install
+npm start
 ```
 
 ## RECOMMENDED INSTALL ON TERMUX
